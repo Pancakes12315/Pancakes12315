@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Joe Wang!<br><br>💻 Full-stack Developer | Problem Solver | Lifelong Learner With a passion for technology and an eye for innovation, I thrive on building clean, scalable, and impactful solutions. From crafting elegant front-end interfaces to optimizing back-end functionality, I take pride in my ability to bring ideas to life through code.<br><br>✨ A bit about me:<br><br>🌐 I specialize in Web and Graphic Design.<br><br>🚀 I’m always exploring the latest trends in technology and open-source projects.<br><br>🤝 Collaboration and creativity are the core of my work philosophy.<br>
+👋 Hi, I'm Joe Wang!<br><br>💻 Full-stack Developer | Problem Solver | Lifelong Learner With a passion for technology and an eye for innovation, I thrive on building clean, scalable, and impactful solutions. From crafting elegant front-end interfaces to optimizing back-end functionality, I take pride in my ability to bring ideas to life through code.<br><br>✨ A bit about me:<br><br>🌐 I specialize in Web and Graphic Design.<br><br>🚀 I’m always exploring the latest trends in technology and open-source projects.<br>
 
 
 ## 🌐 Socials:
